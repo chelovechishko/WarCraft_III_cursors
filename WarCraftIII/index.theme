@@ -1,0 +1,5 @@
+[Icon Theme]
+Name = WarCraftIII
+Comment = Developed by many authors
+Example = left_ptr
+Inherits = core
