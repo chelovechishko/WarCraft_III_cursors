@@ -1,5 +1,7 @@
 # WarCraft III cursors (Undead main) theme
 
+![Cursors in static](viewfinder/found.png)
+
 ## 1 Description
 This is WarCraft themed cursors.
 
